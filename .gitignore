@@ -24,6 +24,7 @@ coverage
 build/Release
 
 # Dependency directory
+<<<<<<< HEAD
 # https://docs.npmjs.com/misc/faq#should-i-check-my-node-modules-folder-into-git
 node_modules
 
@@ -77,3 +78,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+=======
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+>>>>>>> f829671a74c452cea2e7a14187cedf062136208c
